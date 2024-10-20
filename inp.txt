@@ -1,0 +1,14 @@
+Sample Input 1:
+
+5
+3 10 22 75 12
+Sample Output 1:
+
+10 22 12 3 75
+Sample Input 2:
+
+10
+10 3 75 22 12 11 1 2 4 6
+Sample Output 2:
+
+10 22 12 2 4 6 3 75 11 1
