@@ -24,6 +24,7 @@ int main()
      if(!flag){
           printf("0");
      }
+     printf("hello world");
 
      
      return 0;
